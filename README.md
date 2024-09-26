@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Visitor Counter:
+<span style="color: green"> Visitor Counter: </span>
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/previdiguy/count.svg)
