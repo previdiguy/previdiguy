@@ -22,4 +22,7 @@ $\color{green}{Thanks}$ $\color{green}{for}$ $\color{green}{visiting}$ $\color{g
 
 ![Visitor Count](https://profile-counter.glitch.me/previdiguy/count.svg)
 
+<br />
+<h6> this README was approved by the "graphic design is my passion" team! </h6>
+<img src="https://github.com/previdiguy/previdiguy/blob/main/images/gdmp.png?raw=true" style="width: 100px;" alt='gdimp'/> 
 </div>
