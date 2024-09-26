@@ -4,6 +4,7 @@
   <br />
   <br />
   
+ <img src="https://github.com/previdiguy/previdiguy/blob/main/images/name.png?raw=true" style="max-width: 100%;" alt="My Name is" />
 <!-- Footer -->
 
 <div align="center">
