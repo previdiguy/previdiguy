@@ -18,8 +18,7 @@
 
 <div align="center">
 
-$\color{green}{Visitor}$ $\color{green}{Counter:}$
-
+$\color{green}{Thanks}$ $\color{green}{for}$ $\color{green}{visiting}$ $\color{green}{my}$ $\color{green}{profile!}$
 
 ![Visitor Count](https://profile-counter.glitch.me/previdiguy/count.svg)
 
