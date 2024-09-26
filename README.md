@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/previdiguy/previdiguy/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   
- <img src="https://github.com/previdiguy/previdiguy/blob/main/images/name.png?raw=true" style="max-width: 100%;" alt="My Name is" />
+ <img src="https://github.com/previdiguy/previdiguy/blob/main/images/nameV2.png?raw=true" style="max-width: 100%;" alt="My Name is" />
 
  <br />
   <br />
