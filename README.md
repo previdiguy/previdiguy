@@ -7,10 +7,9 @@
 <!-- Footer -->
 
 <div align="center">
-> [!TIP]
-> Optional information to help a user be more successful.  
-Visitor Counter
-<br />
+
+$\color{green}{Visitor}$ $\color{green}{Counter:}$
+
 
 ![Visitor Count](https://profile-counter.glitch.me/previdiguy/count.svg)
 
