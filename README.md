@@ -5,8 +5,15 @@
   <br />
   
  <img src="https://github.com/previdiguy/previdiguy/blob/main/images/name.png?raw=true" style="max-width: 100%;" alt="My Name is" />
-<!-- Footer -->
 
+ <br />
+  <br />
+
+<img src="https://github.com/previdiguy/previdiguy/blob/main/images/about.png?raw=true" style="max-width: 100%;" alt="studding" />
+ 
+<!-- Footer -->
+<br />
+  <br />
 <div align="center">
 
 $\color{green}{Visitor}$ $\color{green}{Counter:}$
